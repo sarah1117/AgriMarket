@@ -28,7 +28,10 @@ Functional Requirements:
 
 Installation Guide :
 
-#download the zip file and extract it.
-#copy and paste it in C://xampp/htdocs
-#import database file in "ecom" databse in xampp
-#open chrome type "localhost/Online-Shop" .
+1)download the zip file and extract it.
+
+2)copy and paste it in C://xampp/htdocs
+
+3)import database file in "Agrimarket" databse in xampp
+
+4)open chrome type "localhost/Online-Shop" .
