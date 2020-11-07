@@ -25,3 +25,10 @@ Functional Requirements:
 • Back end: MySQL
 
 • Front end: PHP, HTML, CSS, JS
+
+Installation Guide :
+
+#download the zip file and extract it.
+#copy and paste it in C://xampp/htdocs
+#import database file in "ecom" databse in xampp
+#open chrome type "localhost/Online-Shop" .
